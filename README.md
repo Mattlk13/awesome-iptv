@@ -241,7 +241,6 @@ Applications with support of IPTV streams.
 - [Worlds TV Mobile](https://worldstvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 - [EBK IPTV](https://www.ebk-iptv.online/) - Watch online with pre-defined lists, add custom URLs, favorite channels/genres, channel/country search, and PWA support.
-- [tv.garden](https://tv.garden) - Explore and watch live TV from around the world with an intuitive globe interface, inspired by radio.garden.
 - [Global Free TV](https://globalfreetv.com/) - Stream a wide range of free IPTV channels from various countries, offering easy access to international content through a user-friendly interface.
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
@@ -271,6 +270,7 @@ Applications with support of IPTV streams.
 - [FluxCast](https://tv.abhiyanpa.in/) - A clean, modern web application for browsing and streaming publicly available live TV channels from around the world.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U playlist for free TV channels around the World.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
+- [Famelack](https://famelack.com/) - Watch free live world TV from anywhere.
 
 ## Channel Datasets
 
