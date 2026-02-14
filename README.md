@@ -268,9 +268,9 @@ Applications with support of IPTV streams.
 - [TV Run](https://tvrun.online/) - Free online global TV streaming platform.
 - [IpTv App](https://sidratulpunno.github.io/LiveTv/) - Cross-platform player built with Flutter that supports playing all the channels from the iptv repository.
 - [FluxCast](https://tv.abhiyanpa.in/) - A clean, modern web application for browsing and streaming publicly available live TV channels from around the world.
+- [Famelack](https://famelack.com/) - Watch free live world TV from anywhere.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U playlist for free TV channels around the World.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
-- [Famelack](https://famelack.com/) - Watch free live world TV from anywhere.
 
 ## Channel Datasets
 
