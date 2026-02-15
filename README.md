@@ -232,6 +232,7 @@ Applications with support of IPTV streams.
 - [nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A modern, web-based IPTV player featuring Live TV, EPG, Movies (VOD), and Series support.
 - [neTV](https://github.com/jvdillon/netv) - A minimal, self-hosted web interface for IPTV streams.
 - [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
+- [SpanishST/xtreamfilter](https://github.com/SpanishST/xtreamfilter) - A Docker-based Xtream Codes proxy that filters IPTV content (Live TV, Movies, Series) from multiple sources with merged playlists, stream proxying, advanced filtering, Telegram notifications, monitoring and download capabilities.
 
 ## Providers
 
